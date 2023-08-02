@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign Up - Email Already Registered</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e030f177-b294-49ca-b112-51ce431eb22b</testCaseGuid>
+</TestCaseEntity>

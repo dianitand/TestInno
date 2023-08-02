@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputphonenumber</name>
+   <tag></tag>
+   <elementGuidId>015b13fd-54dd-4112-8dac-5dc8cb0bcda4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.vue-input-ui__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login-form-number']/div/div/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b19adb75-e2ae-49c5-9ff6-a8800d9e364e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>phoneNumber1_phone_number</value>
+      <webElementGuid>7af69a94-1022-40e0-917d-86e2c92736aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-input-ui__label</value>
+      <webElementGuid>7361804b-4892-4275-9cb2-aeb22eba9fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Contoh: 0856xxxx
+  </value>
+      <webElementGuid>40b002b5-83b4-42fc-b33d-d8c581fc5396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-form-number&quot;)/div[@class=&quot;component&quot;]/div[@class=&quot;vue-phone-number-input flex&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;vue-input-ui input-phone-number&quot;]/label[@class=&quot;vue-input-ui__label&quot;]</value>
+      <webElementGuid>c780d25d-ef7b-4969-bce7-9815779bf714</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login-form-number']/div/div/div[2]/div/label</value>
+      <webElementGuid>eb8e1e2b-10a4-4235-bc8c-baa1ef21ab9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Åland Islands'])[1]/following::label[1]</value>
+      <webElementGuid>a6ad8e59-1a73-4e56-8048-43ce3a15498f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbabwe'])[1]/following::label[1]</value>
+      <webElementGuid>a03691f6-9199-4ed7-9bcf-4308c638f95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOG IN'])[2]/preceding::label[1]</value>
+      <webElementGuid>3fa4bbdc-307b-4c6b-a637-e8797a808da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau log in melalui'])[2]/preceding::label[1]</value>
+      <webElementGuid>6d00cb00-2ab2-421f-ae5a-950513ca7f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contoh: 0856xxxx']/parent::*</value>
+      <webElementGuid>05fd949c-b54a-48ef-8c67-140ca697f604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>1ae85bf8-5e62-4723-9476-cdcc6fe0dfc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+    Contoh: 0856xxxx
+  ' or . = '
+    Contoh: 0856xxxx
+  ')]</value>
+      <webElementGuid>b5909fd9-8b13-49b8-a085-c09c9b0db210</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Saya mau dikirimkan newsletter dan pena_b092b2</name>
+   <tag></tag>
+   <elementGuidId>67bf9eef-6b77-4b0f-9137-86bbf87c434b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-phone-otp']/div/div/div/div/div/div/span/form/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49dc9d10-47f7-4fed-bf25-ea34913ae501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check</value>
+      <webElementGuid>7a61d7a0-a383-416e-b572-70d8b03b0db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Saya mau dikirimkan newsletter dan penawaran eksklusif</value>
+      <webElementGuid>608d649e-261c-4ed2-8650-21f67b3e52cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-phone-otp&quot;)/div[@class=&quot;section p-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-12 col-md-12 col-lg-8 offset-lg-2&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;register-container&quot;]/span[1]/form[1]/div[@class=&quot;form-check&quot;]</value>
+      <webElementGuid>0dafb506-a0ec-4200-831a-761329cf8d66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-phone-otp']/div/div/div/div/div/div/span/form/div[4]</value>
+      <webElementGuid>0085744d-71b3-4f5c-b042-2348d512279e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contoh: 0856xxxx'])[1]/following::div[1]</value>
+      <webElementGuid>bf227895-28e8-48ac-bf9a-66962e7e0e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Åland Islands'])[1]/following::div[3]</value>
+      <webElementGuid>c0884c8e-e2e8-42e6-965d-46e79f4cbbce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]</value>
+      <webElementGuid>f411339b-5d32-48f4-93de-af9888c2bed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Saya mau dikirimkan newsletter dan penawaran eksklusif' or . = ' Saya mau dikirimkan newsletter dan penawaran eksklusif')]</value>
+      <webElementGuid>40294f5a-f9dd-4ee4-a27d-dd9e8e060bd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
